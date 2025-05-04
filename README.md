@@ -1,14 +1,46 @@
-# Smart-Street-Air-Purifier-
-Smart Street Air Purifier is aoslution developed by Team Greenpole Innoiovators to tackle the increasing problem of pollution in Capital of India, Delhi.
-The Purifier is comprised of multi-layer air filtration system live real time data monitoring of pollution in covaerage area. 
-# Hardware-description
-it consists of following components that help in multistage air filtration:
-1. Two high speed fans for inlet and outlet of air
-2. Filters to increase efficiency and clear air
-3. Sensors- to keep the check of real tiime air filtration
-4. Voltage dividers, bridge circuits and transformers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart Street Air Purifier</title>
+</head>
+<body>
 
-# Software-description 
-website development integrated with government guidelines which helps citizens of state keep the track of data, like a person can access the polluton of its particlar area, a person can login to check in which area is the Smart street Air purifier working.
-The website also keeps the track of data how much air is purified in a last few weeks or mornths.
-It also integrates govermnent currenly running air pollution control vehicles and sprinkler. Using this we can optimize the routes of the vehicles making their running more efficient and useful.
+  <h1>Smart Street Air Purifier</h1>
+
+  <p><strong>Smart Street Air Purifier</strong> is an innovative solution developed by <strong>Team GreenPole Innovators</strong> to address the growing issue of air pollution in India's capital city, <strong>Delhi</strong>. This intelligent system is designed to purify air in urban areas while offering <strong>real-time monitoring</strong> of air quality in the coverage zone.</p>
+
+  <hr>
+
+  <h2>Hardware Overview</h2>
+
+  <p>The purifier uses a multi-stage filtration process supported by the following components:</p>
+
+  <ul>
+    <li><strong>High-Speed Fans</strong> – Two fans manage the intake of polluted air and the output of clean air, ensuring effective air circulation.</li>
+    <li><strong>Multi-Layer Filters</strong> – Includes pre-filters, HEPA filters, and activated carbon filters to trap dust, smoke, and harmful gases.</li>
+    <li><strong>Environmental Sensors</strong> – Monitor real-time air quality metrics and filtration efficiency continuously.</li>
+    <li><strong>Electronic Components</strong> – Voltage dividers, bridge circuits, and transformers ensure power regulation and stable operation.</li>
+  </ul>
+
+  <hr>
+
+  <h2>Software Overview</h2>
+
+  <p>The software stack includes a dynamic, web-based platform integrated with government pollution control systems to enhance monitoring and planning:</p>
+
+  <ul>
+    <li><strong>User Dashboard</strong> – A responsive interface allows users to monitor real-time air quality data for specific locations.</li>
+    <li><strong>Login & Area Tracking</strong> – Registered users can track purifier locations and pollution levels in their vicinity.</li>
+    <li><strong>Data Analytics</strong> – The platform records historical data showing how much air has been purified over recent weeks and months.</li>
+    <li><strong>Government Integration</strong> – Synchronizes with air pollution control vehicles and sprinkler systems to optimize their routes and improve operational efficiency.</li>
+    <li><strong>Public Awareness</strong> – Promotes civic engagement by giving residents direct access to purifier status and local pollution data.</li>
+  </ul>
+
+  <hr>
+
+  <h2>Live Website</h2>
+  <p>🌐 <a href="https://arnavsketch.github.io/Smart-Street-Air-Purifier-/" target="_blank">Visit Project Website</a></p>
+
+</body>
+</html>
